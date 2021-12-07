@@ -8,5 +8,5 @@ def subtract(a,b):
 def multiply(a,b): #곱셈함수
 	return a*b
 
-def devide_premium(a,b):
-	return a/b
+def devide_new(a,b):
+	a/b
