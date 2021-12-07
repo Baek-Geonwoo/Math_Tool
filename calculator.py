@@ -7,3 +7,6 @@ def subtract(a,b):
 
 def multiply(a,b): #곱셈함수
 	return a*b
+
+def devide(a,b):
+	return a/b
