@@ -9,4 +9,4 @@ def multiply(a,b): #곱셈함수
 	return a*b
 
 def devide_new(a,b):
-	a/b
+	return a/b
