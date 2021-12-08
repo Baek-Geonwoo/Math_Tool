@@ -8,8 +8,5 @@ def subtract(a,b):
 def multiply(a,b): #곱셈함수
 	return a*b
 
-def devide_free(a,b):
-	return a/b
-
-def square(a):
-	return a*a
+def devide_new(a,b):
+	a/b
