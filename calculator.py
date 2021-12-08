@@ -10,3 +10,6 @@ def multiply(a,b): #곱셈함수
 
 def devide_new(a,b):
 	a/b
+
+def say_hello():
+	print("Hello)
